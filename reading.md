@@ -42,3 +42,4 @@ $ ls -1 | xargs -I % echo '- %'
 - 16SK03187-刘伟-When CSI Meets Public WiFi Inferring Your Mobile Phone Password via WiFi Signals.pdf
 - 16s003085-丁宁-Verena End-to-End Integrity Protection for Web Applications.pdf
 - 7130310108-杜思佳-Don’t Forget to Lock the Back Door! A Characterization of IPv6 Network Security Policy.pdf
+- 17SK03082-谢根栓-Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2.pdf
